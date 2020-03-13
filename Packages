@@ -1,0 +1,1306 @@
+Package: anondev.LocalIAPStore.cw
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/anondev.localiapstore.cw_1.4-1_iphoneos-arm.deb
+Size: 42450
+MD5sum: ae55ebea224a5dc229c5a90749475416
+SHA1: bf7a8eb0f0e12ef0286d741d383832ee7e95a5c4
+SHA256: cf705c0a46e474fdec0c6509b07509c0675b54a3992286f7db8050f9de0d2e2a
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Author: anondev
+Name: LocalIAPStore
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/anondev.LocalIAPStore.cw/s.json
+
+Package: applebetas.ios.tewak.willow.cw
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Ayden Panhuyzen
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: ./debs/applebetas.ios.tewak.willow.cw_1.2.13_iphoneos-arm.deb
+Size: 243400
+MD5sum: 075e630a648fff33a672417b0e712c98
+SHA1: e3d036a50588576432df1577280c0e1e41300a0b
+SHA256: e4d7a151749f29f3699cc160240ec427fe9fe2d82a5cc927fe2f0ead94729d04
+Section: Tweaks
+Description: The volume HUD you deserve. — Supports iOS 11 to 13.
+Author: Ayden Panhuyzen
+Depiction: https://repo.dynastic.co/depiction/88709621761441792/
+Icon: https://repo.dynastic.co/data/static/version/284207023250210816/284207023485091840?size=180
+Name: Ultrasound
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/applebetas.ios.tewak.willow/s.json
+
+Package: applebetas.ios.tewak.willow.cwcn
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Ayden Panhuyzen
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: ./debs/applebetas.ios.tewak.willow.cwcn_1.2.13_iphoneos-arm.deb
+Size: 244420
+MD5sum: c4b1b8dafc4dee428ca494d194814f78
+SHA1: e4145e4940c3fe80bc88cfb2c8eff52785aef3f5
+SHA256: 41c21ba61fbe27cf95cb2600f9707a43dfede68cfd8a74eb3f8db4097e9c21fd
+Section: Tweaks
+Description: The volume HUD you deserve. — Supports iOS 11 to 13.
+Author: Ayden Panhuyzen
+Depiction: https://repo.dynastic.co/depiction/88709621761441792/
+Icon: https://repo.dynastic.co/data/static/version/284207023250210816/284207023485091840?size=180
+Name: Ultrasound 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/applebetas.ios.tewak.willow/s.json
+
+Package: com.25mao.DouTu.cw
+Version: 2.0-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.doutu.cw_2.0-6_iphoneos-arm.deb
+Size: 259612
+MD5sum: e1cbd5b3ed3578e1c38f56f461e4d6cd
+SHA1: 7f44883d5d9ca351a49ac5d7678c317f3354264a
+SHA256: 207e81338ab8cf876c1c521896bff9def642b3d3e2d18c939599248867dbaed0
+Section: Tweaks
+Priority: optional
+Description: 微信斗图助手 https://apt.25mao.com
+Author: Mao
+Depiction: https://apt.25mao.com/view/54
+Name: 微信斗图助手
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.25mao.DouTu/s.json
+
+Package: com.25mao.wechathookpro.cw
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: Mao
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.25mao.wechathookpro.cw_0.3-5_iphoneos-arm.deb
+Size: 1373968
+MD5sum: 5d477ddb824cdd86152959bd36e49bca
+SHA1: f420da5bc40d0b5339974b60d0d9597ddd867f62
+SHA256: b9cd4a5a2230cd50cc4f84c1aa59969d184a2a73bf221f9dd87707052aa9e025
+Section: Tweaks
+Description: 微信辅助,抢红包/斗图/蜜友/防撤回/自带防越狱检测等功能,支持最新版
+Author: Mao
+Depiction: https://captainw.github.io/repo/depictions/com.25mao.wechathookpro/index.html
+Name: WeChatHookPro
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.25mao.wechathookpro/s.json
+
+Package: com.atwiiks.conditionalwifi4.cw
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/com.atwiiks.conditionalwifi4.cw_1.0.0_iphoneos-arm.deb
+Size: 9054
+MD5sum: fbb364b0eb4ae115f4227f8b1e7eb288
+SHA1: 132377f3322beecf803b3b2977ad26238f1e16f8
+SHA256: 4b9669884d97733527c57054b815b2bd77c97eb42b9f1bf0d657407b46c7ddff
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Name: ConditionalWiFi4
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.atwiiks.conditionalwifi4/s.json
+
+Package: com.cannathea.afc2d-arm64.cw
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.cannathea.afc2d-arm64.cw_1.1_iphoneos-arm.deb
+Size: 20528
+MD5sum: 522b9d24d08903192865a5d2dd444c6c
+SHA1: 707db88936cc4c5a6c532e27bcc66383bc3fea68
+SHA256: e9cbc4a6b934547996d71c598e6492493447c5f9c72799348578206428c9e1d1
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.cannathea.afc2d-arm64/s.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cemck.killx-pro.cw
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: cemck
+Installed-Size: 848
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Conflicts: com.cemck.killx
+Filename: ./debs/com.cemck.killx-pro.cw_2.1.2_iphoneos-arm.deb
+Size: 170774
+MD5sum: 913b7c477c4734fb1ebad14ce8b64c89
+SHA1: a56d991f929e5f0ae19bd6698cec6da8af1e9a15
+SHA256: f0e29e5d646d066f779c6972f7c3379c0fbf98b6082a83bc2f3ea33906ce771b
+Section: Tweaks
+Description: One swipe to kill them all!
+Author: cemck
+Depiction: https://repo.packix.com/package/com.cemck.killx-pro/
+Icon: https://repo.packix.com/api/Packages/5d697981a0f3bf00137cb24d/icon/download?size=medium&hash=2
+Name: KillX Pro
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.cemck.killx-pro/s.json
+
+Package: com.cjack.hooktiktok.cw
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.cjack.hooktiktok.cw_0.2_iphoneos-arm.deb
+Size: 17914
+MD5sum: 68a0f713da52b714b7fbda9c3693dd49
+SHA1: cbdf0fb6f41f3b581b20cf28ce26d4bfc2394c40
+SHA256: 4e0bb7fdf6732594894727c454cbee4d73902dd976cbf9e0b8fd3017097ebcf6
+Section: System
+Priority: optional
+Homepage: https://github.com/chenxk-j/hookTikTok
+Description: HOOK TikTok(10.4.0)
+Author: cjack
+Name: hooktiktok
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.cjack.hooktiktok/s.json
+
+Package: com.cokepokes.appstoreplusplus.cw
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus.cw_0.9.8-9_iphoneos-arm.deb
+Size: 775092
+MD5sum: 54ddb246d80e0af944c85d390f3719fd
+SHA1: ad393211a9c5e8e7d126ed7295297ba544d2cfd9
+SHA256: 5426ced90edc047054ec17dc19828f4b5a2ba4a6a541217494db78c4f56d7561
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.cokepokes.appstoreplusplus/s.json
+
+Package: com.cpdigitaldarkroom.barmoji.cw
+Version: 2020.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji.cw_2020.3_iphoneos-arm.deb
+Size: 55206
+MD5sum: d553127c47fbc29865e873428fe63c1b
+SHA1: e2b959dc94753bccf3f5a6682aef0ba59ebb59ed
+SHA256: 275af1c5a604fa7e9e1e7e2fbcfc761640447d8a1db4552c5c5cd9c72bec64ab
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/om.cpdigitaldarkroom.barmoji/s.json
+
+Package: com.creaturecoding.libcspreferences.cw
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 4948
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences.cw_1.2.9_iphoneos-arm.deb
+Size: 657760
+MD5sum: b28cf68f4345debdafdfa4317a37dbd4
+SHA1: 990898bc6ac1d35c02c5a2073f0dc4f380972baa
+SHA256: b1ce7aca0b40c2a6e3bd7698bb4389277ae2e1521e795c53ac55e0f6aabb4991
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iosiOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.creaturesurvive.libcscolorpicker.cw
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 460
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker.cw_1.0.3_iphoneos-arm.deb
+Size: 91650
+MD5sum: 9377656957d533dce08fa041ba9ad06b
+SHA1: 336f031cbf933493177b54c9a1d375e4bdb1a1c5
+SHA256: b7a60994ddc0256bd13e88708d550c907196de04bcf4200d1a6186caf2e530eb
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
+Package: com.exile90.icleanerpro.cw
+Version: 7.8.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro.cw_7.8.0_iphoneos-arm.deb
+Size: 5298684
+MD5sum: c3673cc383be0a3517c652859c578558
+SHA1: 4e30c1f3c089f723e4839514f018409360f9cd56
+SHA256: f72181aec3d8b905e155ec645204264da6eaa20ed4081b501b45cfde6a0a9167
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: 官方正版The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.exile90.icleanerpro/s.json
+
+Package: com.golddavid.colorbanners2.cw
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1214
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
+Filename: ./debs/com.golddavid.colorbanners2.cw_1.2.4_iphoneos-arm.deb
+Size: 676236
+MD5sum: 8f2eeef58bb13a2d9f7ce96e3ac0cd60
+SHA1: 7f1c0cf2c2756d42d911e84b23782f2a22590c15
+SHA256: de5e8428e0cf790d544f89ac7084658928fde4e2fe4837ec8de7505ecb148e84
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+Description: 官方原版Color your notifications
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Author: David Goldman <help@golddavid.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+Dev: goldmandavid0
+Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@2x.png
+Name: ColorBanners 2
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorbanners2/s.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.golddavid.colorbanners2.cwcn
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1214
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
+Filename: ./debs/com.golddavid.colorbanners2.cwcn_1.2.4_iphoneos-arm.deb
+Size: 677124
+MD5sum: 0c39ea8e00360967c85161176931b98c
+SHA1: 469d9399d9f86b0121a09b84bf4dd3b87b2d5296
+SHA256: 6936f37dc74617cf182f0fcf9ca4b9a8be0a2c706ceb5b92810bb4d5fbf56ee4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+Description: Color your notifications
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Author: David Goldman <help@golddavid.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+Dev: goldmandavid0
+Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@2x.png
+Name: ColorBanners 2 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorbanners2.cwcn/s.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.golddavid.colorbanners3.cw
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ./debs/com.golddavid.colorbanners3.cw_1.0.1_iphoneos-arm.deb
+Size: 191454
+MD5sum: 61483f391e2aa11f637dfc07d42201fa
+SHA1: 4044de4fc0de97c17535ae538a948f6d2f45fd69
+SHA256: ae2b331d3b9b882ccc7285202242c6a043d1a5d2cd0323701e04ee89d06706cf
+Section: Tweaks
+Description: 官方原版Spruce up your notifications
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorBanners3.html
+Name: ColorBanners 3
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorbanners3/s.json
+
+Package: com.golddavid.colorbanners3.cwcn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ./debs/com.golddavid.colorbanners3.cwcn_1.0.1_iphoneos-arm.deb
+Size: 191640
+MD5sum: 44de351a65c3364768d20842ce006189
+SHA1: 590c8abe601bc13cc6043df2401e766826a059e7
+SHA256: bf51e765f8873cfc277164b06295f379a014afb683750c497b1cec41974bd62e
+Section: Tweaks
+Description: Spruce up your notifications
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorBanners3.html
+Name: ColorBanners 3 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorbanners3.cwcn/s.json
+
+Package: com.golddavid.colorflow4.cw
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 1956
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Filename: ./debs/com.golddavid.colorflow4.cw_1.3.6_iphoneos-arm.deb
+Size: 777694
+MD5sum: 2827cc676d7bb1a533bdf4352139aa11
+SHA1: 87cc28be51927d21ccc7a4752837a58486afa4ba
+SHA256: ef66c0ec74b71f2fe716568a2b0800e91c401945d84163038d531cf1d850d147
+Section: Tweaks
+Description: 官方原版one colorful boi
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorFlow4.html
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 4 (iOS 11 - 12)
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorflow4/s.json
+
+Package: com.golddavid.colorflow4.cwcn
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 1956
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Filename: ./debs/com.golddavid.colorflow4.cwcn_1.3.6_iphoneos-arm.deb
+Size: 778422
+MD5sum: 6992c0ea4d6df1a1ffcc06079154739f
+SHA1: 3b8c34a0033946be63cbee28e504a0f80e5e7f72
+SHA256: 63617034ff3655bc6896f0ae28b858aedf5b22913c0304c863600e8564a64fa5
+Section: Tweaks
+Description: one colorful boi
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorFlow4.html
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 4 (iOS 11 - 12)汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorflow4.cwcn/s.json
+
+Package: com.golddavid.colorflow5.cw
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 1424
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Filename: ./debs/com.golddavid.colorflow5.cw_1.0.2_iphoneos-arm.deb
+Size: 541940
+MD5sum: d8077512225dbd6969d70a74232fdc7f
+SHA1: 70f24595395167efe328133874c84b77b2b86c40
+SHA256: 621d070a0a90b406e978a64e25a2ab272d5ad1c9a4f2344520790109af5ac27d
+Section: Tweaks
+Description: 官方原版colorful music.
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorFlow5.html
+Icon: file:///Library/PreferenceBundles/ColorFlow5Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 5 (iOS 13)
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorflow5/s.json
+
+Package: com.golddavid.colorflow5.cwcn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 1424
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3, com.golddavid.colorflow4
+Filename: ./debs/com.golddavid.colorflow5.cwcn_1.0.2_iphoneos-arm.deb
+Size: 542464
+MD5sum: 3b017f96bd2a3179c69c19c06069a86a
+SHA1: 10c57fede8bacbcc8d0a9aef1731ec8facd80588
+SHA256: 7fc4bbbe2b9f3218b244532c79827c77ddd885ce39ed3ecc58486163ea48031e
+Section: Tweaks
+Description: colorful music.
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorFlow5.html
+Icon: file:///Library/PreferenceBundles/ColorFlow5Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 5 (iOS 13)汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.golddavid.colorflow5.cwcn/s.json
+
+Package: com.jontelang.snapper2.cw
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Installed-Size: 1616
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.jontelang.snapper2.cw_2.3.1_iphoneos-arm.deb
+Size: 258280
+MD5sum: 09622dcbac1c7aaa1c7656c9be44d455
+SHA1: 38d2ef47bfdf6d1f4924264102920910a7b9d4ff
+SHA256: 6aa9af78715c0ff79b027225acb95e39bb851934caa56cd55497cd9e41ede351
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Depictiob: https://repo.packix.com/package/com.jontelang.snapper2.packix/
+Icon: https://repo.packix.com/api/Packages/5cb75a7dfc3038001a2fc9fd/icon/download?size=medium&hash=2
+Name: Snapper 2
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.jontelang.snapper2/s.json
+
+Package: com.julioverne.cracktool4.cw
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.julioverne.cracktool4.cw_4.0~beta9c_iphoneos-arm.deb
+Size: 377628
+MD5sum: b6458f66bf32500aef3af38b558357e7
+SHA1: 7281133de8f79690ccfe3f647b74da9e56bc9b2e
+SHA256: b0cbed876c0255a6894f346cf5931cf69ffd47b13d665ba4b0f24d4910fe9431
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Crack Tweaks on one click
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Name: CrackTool4 (iOS 12)
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.julioverne.cracktool4/s.json
+
+Package: com.julioverne.spotilife.cw
+Version: 1.1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife.cw_1.1a_iphoneos-arm.deb
+Size: 106680
+MD5sum: 0f48c464aa0bc15b652261cac90162be
+SHA1: 973dc9763df3fa78b6f665899fb4fb5926530681
+SHA256: ad5ab41992ec3c817705284cee3ff5d92de77468dc279455be50b0d44ec56283
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)作者源 http://julio.hackyouriphone.org/
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Name: Spotilife
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.julioverne.spotilife/s.json
+
+Package: com.matchstic.reprovision.cw
+Version: 0.5~release
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/com.matchstic.reprovision.cw_0.5~release_iphoneos-arm.deb
+Size: 13694364
+MD5sum: 637283577737584f6c91ce2d1bea40e8
+SHA1: 02c67e9be8d20779d0dd27ba7c148eb2c2e104f2
+SHA256: 4640b6f0130ac43c898714b1d8d703676b11f67ef388488809101f8fea62e0ea
+Section: System
+Priority: optional
+Homepage: https://github.com/Matchstic/Extender-Installer
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.matchstic.reprovision/s.json
+
+Package: com.opa334.choicy.cw
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 732
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debs/com.opa334.choicy.cw_1.1.4_iphoneos-arm.deb
+Size: 85300
+MD5sum: f4e618670d55c34cb45332c712955e87
+SHA1: 3aa3633f3752b6dd4b65fe2644376892c3338d36
+SHA256: 4c3db765aaaa786f040896db84a65c9cb2ec3f257a14679a233ed5e1762979ba
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: 官方原版Advanced Tweak Configuration!
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Name: Choicy
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.opa334.choicy/s.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.opa334.choicy.cwcn
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 732
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debs/com.opa334.choicy.cwcn_1.1.4_iphoneos-arm.deb
+Size: 86360
+MD5sum: 8f2892362654079657cd2e28f0628657
+SHA1: 8d42026b55f85aceb8cf400a287c27ace3835796
+SHA256: a76c3334c5dc71515a1303296b4f392316c775dccb3c889501e70f1e8a522d63
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Name: Choicy 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.opa334.choicy.cwcn/s.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.opa334.safariplus.cw
+Version: 1.7.10-2
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 5268
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.opa334.safariplus.cw_1.7.10-2_iphoneos-arm.deb
+Size: 1113434
+MD5sum: 5613fa797af2fd8e2e628a8508497198
+SHA1: 0fea4ec1d7b818c31faa0bd9e6824be74394b9f3
+SHA256: be6a9814cfb97449facbd296751f80a3966d7fd43e2cbb004d12526b05220430
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!自带中文，修复两处未汉化
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Name: Safari Plus
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.opa334.safariplus.cw/s.json
+
+Package: com.rpgfarm.a-bypass.cw
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 388
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.rpgfarm.a-bypass.cw_1.0.4_iphoneos-arm.deb
+Size: 28628
+MD5sum: 6ca45757849c6022fd567ec1ee11adbe
+SHA1: 00a25a9176e5f10f580895612b4bf27c81c11ab8
+SHA256: d5edb340a357a5783dcc883b87e1c0a7c921eae76ea4199ab08607e508a4642d
+Section: Tweaks
+Description: Super Jailbreak detection bypass!轻量级屏蔽越狱工具
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.rpgfarm.a-bypass/s.json
+
+Package: com.spark.libsparkapplist.cw
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 596
+Filename: ./debs/com.spark.libsparkapplist.cw_1.0.4_iphoneos-arm.deb
+Size: 32186
+MD5sum: dd0bba68d4ef1321754e5ebec4dc0b86
+SHA1: e5bd780e5f8a82d0dff776145fc0a6a14af92d12
+SHA256: 390f9dd20b8cceca18df98889b222caac7804973bcff7288f13fad7ae924da67
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.spark.libsparkapplist/s.json
+
+Package: com.spark.snowboard.cw
+Version: 1.2.87~Beta2
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 4292
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard.cw_1.2.87~Beta2_iphoneos-arm.deb
+Size: 1429306
+MD5sum: abba0ea64083d7f13f26657edfe77293
+SHA1: 2dde1f4fac4f575994ce0f7aaec5b09173fa1906
+SHA256: 5c1cdd0c446e2fbcf5abfbc40466e5e29241dbf37ee4cee5f8162718b9ef725a
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+Sileodepiction: https://captainw.github.io/repo/sileodepictionss/com.spark.snowboard/s.json
+
+Package: com.spos.cw
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: aesthyrica
+Installed-Size: 768
+Depends: mobilesubstrate
+Filename: ./debs/com.spos.cw_3.1.4_iphoneos-arm.deb
+Size: 142574
+MD5sum: 687afaa81cfef573f5fca11a2c54e876
+SHA1: ba46a62d86547dea78000ff80c3a4e57e532f50d
+SHA256: 379e6371d28c3bb9ea165493bef18a14a38f7124ce8e25951c73c6731cd9e12d
+Section: Tweaks
+Description: Tweak to customize your Spotify App UI and expand functionalities..
+Author: aesthyrica
+Depiction: https://aesthyrica.com/repo/package/com.sposify.client.html
+Name: Sposify
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.spos/s.json
+
+Package: com.springtomize.st5.cw
+Version: 5.0.4
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 2564
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.springtomize.st5.cw_5.0.4_iphoneos-arm.deb
+Size: 472240
+MD5sum: 9f03de836ce86e0c9b2f26791d1ed933
+SHA1: c955f5962b47d4e0acf0a6f10dd533c411a1d7f5
+SHA256: 4c6e2265cec893fadf27cb48429ac8e7e54e8878b8633324b31d9eb095ad5856
+Section: Tweaks
+Description: 官方原版Customize your device like never before.
+Author: sharedRoutine
+Name: Springtomize 5
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.springtomize.st5/s.json
+
+Package: com.springtomize.st5.cwcn
+Version: 5.0.4
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 2564
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.springtomize.st5.cwcn_5.0.4_iphoneos-arm.deb
+Size: 477768
+MD5sum: bf65636dd1f217576108043020a627e5
+SHA1: 26cb22f75897a33db512bd53652c583b9d617381
+SHA256: e2865d7dc3583dd2ee57c348bdacce9484476b67f9f5e114ae2fa6d9ebd4ef05
+Section: Tweaks
+Description: Customize your device like never before.
+Author: sharedRoutine
+Name: Springtomize 5 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.springtomize.st5.cwcn/s.json
+
+Package: com.synnyg.flowic.cw
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist, com.opa334.ccsupport
+Filename: ./debs/com.synnyg.flowic.cw_1.1_iphoneos-arm.deb
+Size: 130176
+MD5sum: 49cf7ed3b3e206f522d9e6b0940da212
+SHA1: 2609fa436e2e8c9f52b9b59711ede43a5ef608b5
+SHA256: 9939bb21f42c37e9dd6f4cf8b987c17e19ab11cf26d825841e540817b0ae78dd
+Section: Tweaks
+Description: Music control everywhere!
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://repo.packix.com/package/com.synnyg.flowic/
+Icon: https://repo.packix.com/api/Packages/5e53a8971db961001a5ccf03/icon/download?size=medium&hash=2
+Name: Flowic
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.synnyg.flowic/s.json
+
+Package: com.synnyg.flowic.cwcn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist, com.opa334.ccsupport
+Filename: ./debs/com.synnyg.flowic.cwcn_1.1_iphoneos-arm.deb
+Size: 131046
+MD5sum: aa53597abd109714cd3e7e1d971f0e52
+SHA1: 1acea22643b6dc9b962cc80c36133207bd1409ef
+SHA256: 5cb72150e8c8649301da0b4c9dc5304e5c23e1f0e4abedc107d2fe84b8f03570
+Section: Tweaks
+Description: Music control everywhere!
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://repo.packix.com/package/com.synnyg.flowic/
+Icon: https://repo.packix.com/api/Packages/5e53a8971db961001a5ccf03/icon/download?size=medium&hash=2
+Name: Flowic 汉化版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.synnyg.flowic/s.json
+
+Package: com.tigisoftware.filza64bit.cw
+Version: 3.7.4-12
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 21232
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debs/com.tigisoftware.filza64bit.cw_3.7.4-12_iphoneos-arm.deb
+Size: 6959676
+MD5sum: 14b0bc4960e191dd817655514badc1c1
+SHA1: fc2e185fec043a0baf74cde6ff4c14437fe9319e
+SHA256: f0052c5d264771eee2ab158eccdcd1af781a3d9ee22a22339d9dc363d82c79cf
+Section: Utilities
+Description: 官方正版File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.tigisoftware.filza64bit/s.json
+
+Package: com.unlimapps.uaupdatetools.cw
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools.cw_1.0r-102_iphoneos-arm.deb
+Size: 544190
+MD5sum: 9880c93c653863a58c9bec0492ff9b8a
+SHA1: fd08ce1c46b9e684241e2f2d554caa4a66b7471b
+SHA256: 851078ddeb4f97ea1405b216bc1d97692b4a554f31940c472ed6437cb64f37d1
+Section: System
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!作者源 https://beta.unlimapps.com
+Author: UnlimApps Inc.
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Name: App Admin
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.unlimapps.uaupdatetools/s.json
+
+Package: com.vitataf.homegesturelite.cw
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: MidnightChips PINPAL
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.vitataf.homegesturelite.cw_1.3_iphoneos-arm.deb
+Size: 4868
+MD5sum: 2012de4626538b7ba5dd396c2ec9f82e
+SHA1: febc056a10761d022e36b7e158ce50936c1d6037
+SHA256: 4822272012320325461efcd17643719defa34e822e3426fe248798ce044e7894
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: HomeGesture Lite
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.vitataf.homegesturelite/s.json
+
+Package: com.xia0.fkwechatzan.cw
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0.fkwechatzan.cw_1.0.0-3+debug_iphoneos-arm.deb
+Size: 40348
+MD5sum: 9ab0c44ee578bd11d83fee8b0708de72
+SHA1: 74d23be42557dc0fb293ca3f1d6b03b0760dde3a
+SHA256: 631fdd729e3956ee2f74160211dc9c2f3d791f8213bbc448f6b7e5dfe07abba2
+Section: Tweaks
+Description: 微信集赞助手！集赞换礼品终结者~作者源https://xia0.github.io
+Author: xia0
+Name: fkwechatzan
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.xia0.fkwechatzan/s.json
+
+Package: com.xia0z.xkfilza.cw
+Version: 0.0.1-23+debug
+Architecture: iphoneos-arm
+Maintainer: xia0z
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.xia0z.xkfilza.cw_0.0.1-23+debug_iphoneos-arm.deb
+Size: 3642
+MD5sum: d227cb0ddc10d676fd6cf575dc5da957
+SHA1: 0e773fca3225219c84afe016bc111bfd1a3397ed
+SHA256: 8bf59f02bab6357667416cfd6828b2420bb317ed9ee1ca4dba82e6e5417324ca
+Section: Tweaks
+Description: Filza crack作者源 https://xia0z.github.io
+Author: xia0z
+Name: xkfilza
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/com.xia0z.xkfilza.cw/s.json
+
+Package: com.yourepo.lly.prozs.cw
+Version: 3.5.0-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3632
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Conflicts: com.yourepo.lenglengyu.prozs, com.lenglengyu.cutisanpro, com.lenglengyu.qmxspro, com.lenglengyu.recshotpro, com.lenglengyu.autoeditpro, com.lenglengyu.yunmeishe, com.lenglengyu.lianzidashi, com.lenglengyu.czjgs, com.lenglengyu.vpnpro, com.lenglengyu.gushihui, com.lenglengyu.yilin, com.lenglengyu.duzhepro, com.lenglengyu.kpoint, com.lenglengyu.baobaoquan, com.lenglengyu.ssshotpro, com.lenglengyu.tingshu, com.lenglengyu.mingsafe, com.lenglengyu.quvideo, com.lenglengyu.qsjtwpro, com.lenglengyu.ringtones
+Filename: ./debs/com.yourepo.lly.prozs.cw_3.5.0-1_iphoneos-arm.deb
+Size: 895962
+MD5sum: 1eea33be4872b120f4d1a569bbbc062d
+SHA1: 127c9509bcc0e270e43a243976b8bb9fc2bdf98c
+SHA256: 7a8a862a2d2cc84294cb585dda2759cf88e53ce34561fb2aea8713f5fdb0c1b4
+Section: Tweaks
+Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
+Icon: file:///Library/PreferenceBundles/prozs.bundle/icon@2x.png
+Name: Pro助手
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
+
+Package: com.yourepo.lly.shayujz.cw
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.shayujz.cw_0.0.1-1_iphoneos-arm.deb
+Size: 12122
+MD5sum: 0c753e9af4f1fcbc7c3388ef28a8f7f3
+SHA1: fdfdb2160e2e6b8d7ca515a7599728137fe20b84
+SHA256: 3473b24f748d80bfd9bfd4b2a208e948f6ed48ae82740178483a341251812e6b
+Section: 破解
+Description: 鲨鱼记账Pro，解锁VIP权限。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/syjz.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 鲨鱼记账 Crack
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/syjzsileo
+
+Package: cw.Flex3beta
+Version: 1:3~Beta86
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/cw.flex3beta_3~Beta86_iphoneos-arm.deb
+Size: 10271916
+MD5sum: 22139f18fe57a8fd195219d90875ecf1
+SHA1: 7c6a0dbb88f7526c2016a74b88c2c8002850c031
+SHA256: bed97e42bd88c8827cd92f38a9f53ecfbd36a98869cbbcaa71d79548d6fc3c9b
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.Flex3beta/s.json
+
+Package: cw.bilibilihook
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cw.bilibilihook_0.1-5_iphoneos-arm.deb
+Size: 20420
+MD5sum: c9fa6f29695eadb616c1a7ffec1c9403
+SHA1: 9b12a5925cfd6ae6b04c330e7957c31eca527df9
+SHA256: 134841424f3e33ab151dcb58383fc8aa80180f07e36112a480848c513f7f2fff
+Section: 破解
+Description: 新年第一弹礼物，免V解锁哔哩哔哩大会员，可缓存可1080P，支持原版哔哩哔哩客户端和哔哩哔哩概念客户端，新增去除启动广告 感谢土拨鼠
+Author: 土拨鼠
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 哔哩哔哩高级版[新年福利]
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.bilibilihook/s.json
+
+Package: cw.cn.Choicy
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Filename: ./debs/cw.cn.choicy_1.1.4_iphoneos-arm.deb
+Size: 2276
+MD5sum: 05d1487368266f379a6de9a1cfea5240
+SHA1: 93c17ae1c4b94593880d196f6ff6c250ca210401
+SHA256: f6c19aceaf401824aad4c07f84e57361eb5d1b08920b7b9e5123f801636727b0
+Section: 汉化
+Description: Choicy 简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: Choicy 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.Choicy/s.json
+
+Package: cw.cn.colorbanners2
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ./debs/cw.cn.colorbanners2_1.2.4_iphoneos-arm.deb
+Size: 2104
+MD5sum: 7db655f385fddfdcf4828783d0d26328
+SHA1: 30076460f01100df6e68504d8d2e8f041ddf4451
+SHA256: cb3e3d327988555b2815bd4bcd10c57ad5e9df86644d9da8e3baa15fa1a0192c
+Section: 汉化
+Description: ColorBanners 2简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: ColorBanners 2 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.colorbanners2/s.json
+
+Package: cw.cn.colorbanners3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Filename: ./debs/cw.cn.colorbanners3_1.0.1_iphoneos-arm.deb
+Size: 3190
+MD5sum: 73ba41eb6edb76babdfbbf8b8e92b856
+SHA1: b0826046cfebe088f14e64aff0c406fd969d7757
+SHA256: 35019f67343da698627635db1903ca67aa52f27312cf732a52577c3a41a28d95
+Section: 汉化
+Description: ColorBanners 3(iOS 13) 简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: ColorBanners 3(iOS 13) 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.colorbanners3/s.json
+
+Package: cw.cn.colorflow4
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>=11.0)
+Filename: ./debs/cw.cn.colorflow4_1.3.6_iphoneos-arm.deb
+Size: 1922
+MD5sum: 7a3bddefe784a053e335e070b00d0455
+SHA1: 5f52eef79216c1221342d0e39bacada5d0498f98
+SHA256: aca89ec152c8f685ff060b3e4891ad9f0ffc77f25288af8fbeca14291b5e56b1
+Section: 汉化
+Description: ColorFlow 4(iOS11-12) 简体中文包
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: ColorFlow 4 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.colorflow4/s.json
+
+Package: cw.cn.colorflow5
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>=13.0)
+Filename: ./debs/cw.cn.colorflow5_1.0.2_iphoneos-arm.deb
+Size: 1926
+MD5sum: 9d105c703988ab3586a70c7984f38256
+SHA1: 63e8acd40ae013e26411755453e3c308ecc2d0cb
+SHA256: c320c22d01d9846e47adece29bd3ac7a6eeae8c0f912b73ff8886324d4fb7f91
+Section: 汉化
+Description: ColorFlow 5(iOS13) 简体中文包
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: ColorFlow 5 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.colorflow5/s.json
+
+Package: cw.cn.flowic
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Filename: ./debs/cw.cn.flowic_1.1_iphoneos-arm.deb
+Size: 2194
+MD5sum: 998aa117dabcfa19a1bc00a74d27312c
+SHA1: 6d05fee70dbf342f3006814c854ea4675a7b83a7
+SHA256: 98e45c86816fb7acf157cd2e61540a614d9cdca363b268f4ad459646be30cf23
+Section: 汉化
+Description: flowic 简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: flowic 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.flowic/s.json
+
+Package: cw.cn.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Filename: ./debs/cw.cn.shadow_2.0.20_iphoneos-arm.deb
+Size: 4392
+MD5sum: be9ef57d11078a9b1e1f88f34a265496
+SHA1: 3686b83a083d04a699b5de7de2282e909513415b
+SHA256: 16361226531199f30a257da7d68a45903308b9b8648335fa80f5bb7b098fb70c
+Section: 汉化
+Description: Shadow 简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: Shadow 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.shadow/s.json
+
+Package: cw.cn.springtomize4
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Filename: ./debs/cw.cn.springtomize4_4.1.0_iphoneos-arm.deb
+Size: 9130
+MD5sum: 6d723c95f524ec2d9102a157d8424145
+SHA1: 644604a948486a139e903e07e6797272f4ee14ea
+SHA256: fd5853e4ad0eab3f2dd8df239de0f9cc7355582e9dc15d57a03f2324d22a9e0e
+Section: 汉化
+Description: Springtomize 4 简体中文包,理论全版本。
+Author: CaptainW
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: Springtomize 4 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.cn.springtomize4/s.json
+
+Package: cw.cn.ultrasound
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/cw.cn.ultrasound_1.2.13_iphoneos-arm.deb
+Size: 2018
+MD5sum: 020a0f1046d037d63bc46371a613efc0
+SHA1: 2c070c4da56e4e3b4b2dde3b00bf504ae5b899d0
+SHA256: 765966f3cff967dde40857b67651968f03d8fb023266e6267f11ef7b76e656ca
+Section: 汉化
+Description: Ultrasound 简体中文包 理论支持全版本，遗漏请指出。
+Author: CaptainW
+Depiction: https://repo.dynastic.co/depiction/88709621761441792/
+Icon: https://captainw.github.io/repo/images/TranslateLogo.png
+Name: Ultrasound 简体中文包
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/applebetas.ios.tewak.willow/s.json
+
+Package: cw.icleanerpro
+Version: 7.8.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/cw.icleanerpro_7.8.0_iphoneos-arm.deb
+Size: 5298120
+MD5sum: 5a4d6fc9963efd91b4d946ce55dfbe18
+SHA1: fadea5df91b129354005c53f671572466d8f60a0
+SHA256: b74a585ea5ddbdb1c859afc4acdb08eaf5a236eea83131eaaa7cf6844a9f99f1
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer有能力请支持正版
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro 破解版
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.icleanerpro/s.json
+
+Package: cw.jsboxcrack
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cw.jsboxcrack_0.1-2_iphoneos-arm.deb
+Size: 21828
+MD5sum: 45d618730be56af33635ecb1938a2693
+SHA1: 970f82701d832ed6c4e957f5914e66d119432826
+SHA256: 9634feef800cb820aaf7582f8ddb23b30c36dc6f6043d682e26c239b2b30c566
+Section: 破解
+Priority: optional
+Description: JSBox2.0-2.4破解订阅 感谢土拨鼠
+Author: 土拨鼠
+Icon: file:///Library/AppIcon60x60@2x.png
+Name: JSBox Crack
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.jsboxcrack/s.json
+
+Package: cw.preferenceloader
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 525
+Depends: mobilesubstrate
+Filename: ./debs/cw.preferenceloader_2.2.4_iphoneos-arm.deb
+Size: 32784
+MD5sum: 828c2275325d375d04d0de7ddf86c4b9
+SHA1: 594f5776baeff42b9e0d40f64c643ab576942e67
+SHA256: 05d4705fef8fe274e8fc1f869cafa421638c05a5e7c126b5449c4ae34860839d
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.preferenceloader/s.json
+
+Package: cw.preferenceloader
+Version: 2.2.4~beta1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/cw.preferenceloader_2.2.4~beta1_iphoneos-arm.deb
+Size: 33922
+MD5sum: 97df48771fe1ca030f6e41b45c29a630
+SHA1: 605fa5d61db3f2b54d027d9d7271a2d15269c86d
+SHA256: 2a723470c02db29ef6968b889c2ff987ea68d30ef863c9a372e125252ec6e7aa
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/cw.preferenceloader/s.json
+
+Package: cydia-dark
+Version: 1.9.3~chimera5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 9416
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Filename: ./debs/cydia-dark_1.9.3_chimera5_iphoneos-arm.deb
+Size: 1366944
+MD5sum: aecb5c5a8717db0a750a6c2a9209e81f
+SHA1: 0765ca536180f7c7587d6198e925de9bb0038d6d
+SHA256: d6a902c38b5a3c5c4c216cb158c9181ce114ca555ba211527122c8ff3df8d513
+Section: Packaging
+Priority: optional
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, role::enduser
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Cydia for Chimera/Electra
+
+Package: cydia-lproj
+Version: 1.9.3~chimera5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 712
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./debs/cydia-lproj_1.9.3_chimera5_iphoneos-arm.deb
+Size: 66940
+MD5sum: 0ac90b64b5a8b8098e216c30a21f3ff4
+SHA1: 9f3c842b5fb5adf84eef83fdf4fd9690ec65b585
+SHA256: c238840c078db89a99e8e2208bd7a1820f9dba54ad8454c7af23060131e6b781
+Section: Packaging
+Priority: required
+Description: languages and translations for Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Name: Cydia Translations
+
+Package: kr.xsf1re.flyjb.cwcn
+Version: 0.2.3~beta5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 836
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Filename: ./debs/kr.xsf1re.flyjb.cwcn_0.2.3~beta5_iphoneos-arm.deb
+Size: 442986
+MD5sum: 05b377e96ae998cfaa977ac508de3bb9
+SHA1: b717dafe2cdd3dee7a53df0f4953920cd55e4676
+SHA256: 4fa41e70f73568cb0ce5c46fb37523a5d4ee704fc1c01265e5e3304e54cb1dfb
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.屏蔽越狱检测,已经汉化
+Author: XsF1re
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+Icon: file:///Library/PreferenceBundles/FlyJBPrefs.bundle/icon@2x.png
+Name: FlyJB
+Sileodepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+
+Package: me.ahmedbafkir.dleasy.cw
+Version: 2.8.6-2
+Architecture: iphoneos-arm
+Maintainer: CaptainW
+Installed-Size: 9228
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Conflicts: me.ahmedbafkir.dleasy.cw
+Replaces: nono
+Filename: ./debs/me.ahmedbafkir.dleasy.cw_2.8.6-2_iphoneos-arm.deb
+Size: 1573722
+MD5sum: e96360f7eef187585e04f766bb3f7caa
+SHA1: fc9a8465e7c0a789deaab6b1445cd91e442de387
+SHA256: 2dd2fa12e4e48fb1c41560d315a4ed0dddf87c646a2b8e53ef71125a34e610eb
+Section: Tweaks
+Description: Download/Share images & videos from social apps easily!正版源地址 https://repo.packix.com有能力请支持正版 破解者源https://repo.pulandres.me/
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://repo.packix.com/package/me.ahmedbafkir.dleasy/
+Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
+Name: DLEasy
+Sileodepiction: https://repo.packix.com/package/me.ahmedbafkir.dleasy/
+
+Package: me.apptapp.installer.cw
+Version: 5.0.2.2
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/me.apptapp.installer.cw_5.0.2.2_iphoneos-arm.deb
+Size: 25302758
+MD5sum: 4dd0b904c6d806b040815f1ad88035d5
+SHA1: 43a153ed1948e5d5c007bf457c17647371ee703f
+SHA256: 6a5af1bf02b7a00011890936a261e5bf8a4b3821fb7f139af2f5b04244909129
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.jjolano.shadow.cw
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/me.jjolano.shadow.cw_2.0.20_iphoneos-arm.deb
+Size: 131792
+MD5sum: d7e102025d26bd68df37476e5bb2dc5a
+SHA1: 8141543e65db23c14909880f23f7c6369ffa0d50
+SHA256: 98cb979ad5ba02d0bc7a02c5a23e9d09695ba858aeac95da22c22aae4e2f4cfb
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 官方原版A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Name: Shadow
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+
+Package: me.jjolano.shadow.cwcn
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/me.jjolano.shadow.cwcn_2.0.20_iphoneos-arm.deb
+Size: 134984
+MD5sum: 424c88e8ef8158200c6defb0e248f1b1
+SHA1: cdd908396d4506b1434c63c13c385765ce6e7468
+SHA256: 29a81fe918441f1942c5b86e067fe4584177c741773a7f4396c8a1e29db06efd
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Name: Shadow 汉化版
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+
+Package: net.angelxwind.appsyncunified.cw
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/net.angelxwind.appsyncunified.cw_70.0_iphoneos-arm.deb
+Size: 41130
+MD5sum: e61188f9b6ace376b616cf3378fc5226
+SHA1: df5044349391d5778c735fcb5b3f94fca036a847
+SHA256: c3157ac6b953e4df97503f7eb213e14b5384909fba539df484a491a5f1f575bc
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications. https://cydia.angelxwind.net/
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/net.angelxwind.appsyncunified/s.json
+
+Package: xyz.willy.zebra.cw
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 48572
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra.cw_1.0.7_iphoneos-arm.deb
+Size: 13961844
+MD5sum: 0d704b836b6e044057ef26f48f4a133c
+SHA1: c2e4d80debf8950a60f089f55102365b2fe6d9bf
+SHA256: 3a67001d6bbbfa4c39ce9542f12ba0d428d938e0a10fa96cb8176a3c4eb6b644
+Section: Packaging
+Description: A Useful Package Manager https://getzbra.com/repo/
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Name: Zebra
+Sileodepiction: https://captainw.github.io/repo/sileodepictions/xyz.willy.zebra/s.json
+
